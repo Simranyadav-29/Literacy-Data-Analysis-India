@@ -25,6 +25,19 @@ To evaluate changes in literacy rates and derive insights that can support data-
 
 ---
 
+## 📊 Sample Visualizations
+
+### 📈 Literacy Improvement (2001–2011)
+![Improvement](improvement.png)
+
+### 📊 Literacy Comparison (2001 vs 2011)
+![Comparison](comparison.png)
+
+### 🌆 Rural vs Urban Literacy Gap
+![Gap](gap.png)
+
+---
+
 ## 📈 Key Insights
 - Literacy rates improved across most states between 2001 and 2011
 - Significant variation exists in performance across states
